@@ -1,5 +1,4 @@
 package homework.first;
-
 import java.util.Random;
 
 public class MyClass {

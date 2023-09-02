@@ -15,5 +15,4 @@ public class FirstTask {
             System.out.println("The word '" + thirdWord + "' is the longest");
         }
     }
-
 }

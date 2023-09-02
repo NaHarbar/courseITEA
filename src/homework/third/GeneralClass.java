@@ -13,6 +13,5 @@ public class GeneralClass {
         christmasTrees.firstTree();
         christmasTrees.secondTree();
         christmasTrees.thirdTree();
-
     }
 }

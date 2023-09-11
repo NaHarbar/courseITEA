@@ -11,7 +11,7 @@ public class Student {
     }
 
     public void setName(String name) {
-        if (name.length() > 3)
+        if (name.length() >= 3)
             this.name = name;
     }
 

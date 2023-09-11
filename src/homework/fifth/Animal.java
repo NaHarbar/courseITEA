@@ -22,6 +22,7 @@ class Pet extends Animal {
     protected int raw = 4;
 
     public Pet() {
+        super();
         System.out.println("I am pet");
         eyes = 2;
     }

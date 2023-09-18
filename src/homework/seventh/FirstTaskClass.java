@@ -5,8 +5,8 @@ import java.util.Random;
 public class FirstTaskClass {
 
     public static void main(String[] args) {
-        int[] list = generateArray();
-        divideArray(list);
+        int[] array = generateArray();
+        divideArray(array);
     }
 
     public static int[] generateArray() {

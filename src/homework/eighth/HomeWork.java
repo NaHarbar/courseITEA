@@ -11,9 +11,9 @@ public class HomeWork {
     String publicLabel = "//span[text()='Public']";
     String addReadmeButton = "//a[contains(text(),'README')]";
     String srcFolder = "//a[@title='src']";
-    String codeTab = "id('code-tab')";
-    String viewUserCommits = "className('commit-author user-mention')";
-    String createNewRelease = "linkText('Create a new release')";
+/*   String codeTab = By.id("code-tab");
+   String viewUserCommits = By.className("commit-author user-mention");
+   String createNewRelease = By.linkText("Create a new release");*/
 
     //Actions tab
     String searchWorkflows = "//input[@name='query']";
